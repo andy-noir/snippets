@@ -1,0 +1,9 @@
+.vertical-divider {
+  display: inline-flex;
+  align-self: center;
+  width: 1px;
+  height: 7em;
+  background: white;
+  margin: 0 2.5em;
+  opacity: .55;
+}
